@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateuszsrebniak
-- 👀 I’m interested in SQL and T/SQL
-- 🌱 I’m currently learning SQL and T/SQL
+- 👀 I’m interested in SQL, T/SQL and PLSQL
+- 🌱 I’m currently learning SQL and PLSQL
 - 💞️ I’m looking to collaborate as an intern/junior
 - 📫 How to reach me: mateuszsrebniak000@gmail.com
 
